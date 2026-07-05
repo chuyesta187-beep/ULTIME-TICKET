@@ -1,0 +1,21 @@
+{
+  "name": "ultime-ticket",
+  "version": "1.0.0",
+  "description": "Sistema de tickets avanzado para Discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "ticket",
+    "support",
+    "ultime-ticket"
+  ],
+  "author": "MR.APPLE",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  }
+}
