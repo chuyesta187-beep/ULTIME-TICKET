@@ -1,0 +1,14 @@
+module.exports = {
+    TOKEN: process.env.TOKEN,
+
+    STAFF_ROLE: '1523178739653939240',
+
+    CATEGORY_TICKETS: '1523175945253421067',
+
+    LOGS_CHANNEL: '1523175945253421069',
+
+    EMBED: {
+        COLOR: '#2b2d31',
+        FOOTER: 'Powered by ULTIME TICKET'
+    }
+};
