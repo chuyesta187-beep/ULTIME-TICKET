@@ -38,7 +38,7 @@ const client = new Client({
 
 // ⚙️ Configuración Única y Preconfigurada
 const CONFIG = {
-    TOKEN: 'TU_BOT_TOKEN_AQUÍ', // Coloca aquí el Token de tu bot de Discord
+    TOKEN: 'TOKEN: process.env.TOKEN, // Coloca aquí el Token de tu bot de Discord
     STAFF_ROLE: '1523178739653939240',
     CATEGORY_TICKETS: '1523175945253421067',
     LOGS_CHANNEL: '1523175945253421069'
